@@ -1,6 +1,6 @@
-# Welcome!
 
-Predicting the Success Rate of Indian Movies
+
+                            Predicting the Success Rate of Indian Movies
 
 OVERVIEW:
 
